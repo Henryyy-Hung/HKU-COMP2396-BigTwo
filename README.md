@@ -1,6 +1,6 @@
 # HKU-COMP2396-BigTwo
 
-## Branches
+## Directory
 Index|Description|Link
 -----|----|-------
 Assignment 1|Shape version 1|[LINK]()
