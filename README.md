@@ -4,8 +4,8 @@
 Index|Description|Link
 -----|----|-------
 Assignment 3|BigTwo with Terminal|You are here
-Assignment 4|BigTwo with GUI|[LINK]()
-Assignment 5|BigTwo with Server|[LINK]()
+Assignment 4|BigTwo with GUI|[LINK](https://github.com/Henryyy-Hung/HKU-COMP2396-BigTwo/tree/Assignment-4)
+Assignment 5|BigTwo with Server|[LINK](https://github.com/Henryyy-Hung/HKU-COMP2396-BigTwo)
 
 ## Preview
 
