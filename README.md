@@ -1,8 +1,8 @@
 # HKU-COMP2396-BigTwo
 
 ## Branches
-Assignment Index|Description|Link
+Index|Description|Link
 -----|----|-------
-3|BigTwo with Terminal|[LINK]()
-4|BigTwo with GUI|[LINK]()
-5|BigTwo with Server|[LINK]()
+Assignment 3|BigTwo with Terminal|[LINK]()
+Assignment 4|BigTwo with GUI|[LINK]()
+Assignment 5|BigTwo with Server|[LINK]()
