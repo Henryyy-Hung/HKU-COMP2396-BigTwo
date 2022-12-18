@@ -7,7 +7,7 @@ Assignment 3|BigTwo with Terminal|[LINK](https://github.com/Henryyy-Hung/HKU-COM
 Assignment 4|BigTwo with GUI|You are here
 Assignment 5|BigTwo with Server|[LINK](https://github.com/Henryyy-Hung/HKU-COMP2396-BigTwo)
 
-Feature
+##Feature
 Support 4 players to play BigTwo Card Game under 1 GUI.
 
 ## Preview
